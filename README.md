@@ -22,16 +22,16 @@ pip3 install paramiko
 
 ​	*用你的电脑记事本打开chasm.py文件，填写你的服务器ip，服务器用户及密码*
 
-![image-20240722163852659](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20240722163852659.png)				
+![img](https://cdn.nlark.com/yuque/0/2024/png/40368878/1721638737731-08aa2a8e-7643-4525-8501-45dce62725f7.png)			
 
 ​	*更改完毕后电脑执行以下命令：*
 
-![image-20240722164157077](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20240722164157077.png)
 
-![image-20240722164245511](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20240722164245511.png)
+
+![img](https://cdn.nlark.com/yuque/0/2024/png/40368878/1721638784507-6ae069d0-f078-4a44-83d0-9b8f8d56feda.png)
 
 ```cmd
 python chasm.py
 ```
 
-![image-20240722164323523](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20240722164323523.png)
+![img](https://cdn.nlark.com/yuque/0/2024/png/40368878/1721638808160-7640e46c-5e34-474f-9cfe-93904e477552.png)
