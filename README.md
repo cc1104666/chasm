@@ -6,6 +6,14 @@
 
 ***本人推特：https://x.com/lisa50902711142***
 
+***使用前准备：***
+
+​	mint NFT：https://scout.chasm.net/private-mint
+
+​	点击Setup my scouts获取你的UID及api key（记者保存后面用）
+
+​	获取groq KEY：https://console.groq.com/keys（记者保存后面用）
+
 ***使用前须知：***
 
 ​	**此脚本可在1台服务器运行多个节点，前提是端口号和文件名一定要输入不一样**
