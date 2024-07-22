@@ -122,7 +122,9 @@ def delete_node():
     print(stdout.read().decode('utf-8'))
     userInput = input("请输入你要卸载的节点名称：")
     stdin, stdout, stderr = ssh.exec_command(f'docker stop {userInput}')
+    print(stdout.read().decode('utf-8'))
     stdin, stdout, stderr = ssh.exec_command(f'docker rm {userInput}')
+    print(stdout.read().decode('utf-8'))
 def main_menu():
     while True:
         print('''
