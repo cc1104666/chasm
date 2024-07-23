@@ -2,7 +2,7 @@
 
 ***此脚本为chasm节点自动化脚本，编写不易还请给个免费的星星***
 
-***本人电报联系方式：https://t.me/annilumao***
+***本人交流群：https://t.me/annilumao***
 
 ***本人推特：https://x.com/lisa50902711142***
 
